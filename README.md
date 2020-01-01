@@ -1,5 +1,5 @@
 # 100 Days Of ML Challenge
-As we enter a new Decade 2020, I [Kabir Nagpal]([https://www.linkedin.com/in/kabir-nagpal-3a1302174/](https://www.linkedin.com/in/kabir-nagpal-3a1302174/)), have decide to encourage Machine Learning among everyone in Manipal University Jaipur. 
+As we enter a new Decade 2020, I [Kabir Nagpal](https://www.linkedin.com/in/kabir-nagpal-3a1302174), have decide to encourage Machine Learning among everyone in Manipal University Jaipur. 
 
 ## Motivation for 100 Days of ML 
 
@@ -38,5 +38,5 @@ We wish you the Best and the community is always there to help you.
 
 ## How to join the community ?
 
-To join click [here]([https://t.me/joinchat/J6OZv008u2tzQ1CZhh1mEw])
+To join click [here](https://t.me/joinchat/J6OZv008u2tzQ1CZhh1mEw)
 
