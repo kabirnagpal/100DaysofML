@@ -7,3 +7,4 @@
     - [Asteroid Classification](https://medium.com/analytics-vidhya/classifying-asteroids-using-ml-a-beginners-tale-part-1-f4385458f13) : Tarushi Pathak
     - [100 Days of ML Blog](https://medium.com/@charan.soneji.cls) : Charan Soneji
     - [NLP with Hugging Face Transformers](https://medium.com/nerd-for-tech/nlp-with-hugging-face-transformers-a41caadf6f2) : Kabir Nagpal
+    - [From 50 to 5000, an Image Augmentation Story](https://medium.com/data-science-community-srm/from-50-to-5000-an-image-augmentation-story-1fc30111e39) : Tarushi Pathak
