@@ -8,5 +8,5 @@ You can contribute your project to the list by filling out [this](https://forms.
 1.  **[Stock Markets Analysis and Forecasting](https://github.com/kashish45/StockMarketForecasting)**, *Kashish*  
   The project explains everything about Stock Market and Forecasting of Markets using all possible techniques which include Machine Learning and Time Series Analysis.
 
-2. **[Top and Bottom News hashtags](https://github.com/arpit282/Word2vec)**, *Arpit Singh*
+2. **[Top and Bottom News hashtags](https://github.com/arpit282/Word2vec)**, *Arpit Singh*  
  The project uses the 2020 NEWS summary, heading, keywords and hashtags to get the most frequently used words by combining all the mentioned above columns. Word2vec converts the columns into 100 vectors dimensions. PCA converts them into 2 dimension for plotting relation between the words.
