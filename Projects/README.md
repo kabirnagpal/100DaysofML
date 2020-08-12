@@ -11,5 +11,5 @@ You can contribute your project to the list by filling out [this](https://forms.
 2.  **[Top and Bottom News hashtags](https://github.com/arpit282/Word2vec)**, *Arpit Singh*  
  The project uses the 2020 NEWS summary, heading, keywords and hashtags to get the most frequently used words by combining all the mentioned above columns. Word2vec converts the columns into 100 vectors dimensions. PCA converts them into 2 dimension for plotting relation between the words.
 
-3.  **[Drowsiness Detector and Face Landmark Detection](https://github.com/charansoneji/Drowsiness-detector-and-Face-Landmark-detection)**, *Charan Lalchand Soneji*
+3.  **[Drowsiness Detector and Face Landmark Detection](https://github.com/charansoneji/Drowsiness-detector-and-Face-Landmark-detection)**, *Charan Lalchand Soneji*  
  The project uses Dlib and OpenCV to help us identify the essential landmarks of our face such as eyebrows, eyes , jawline etc. Dlib's pre-trained models and helps us with the identification of these features.
