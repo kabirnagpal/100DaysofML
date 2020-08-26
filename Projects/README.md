@@ -13,3 +13,6 @@ You can contribute your project to the list by filling out [this](https://forms.
 
 3.  **[Drowsiness Detector and Face Landmark Detection](https://github.com/charansoneji/Drowsiness-detector-and-Face-Landmark-detection)**, *Charan Lalchand Soneji*  
  The project uses Dlib and OpenCV to help us identify the essential landmarks of our face such as eyebrows, eyes , jawline etc. Dlib's pre-trained models and helps us with the identification of these features.
+
+4.  **[Background replacement using OpenCV](https://github.com/charansoneji/Background-removal-and-replacer-using-OpenCV)**, *Charan Lalchand Soneji*   
+ Background Removal is used very commonly in most video streaming services such as Zoom, Hangouts etc. So we have our background and we have our foreground. This project is gonna help us remove our background and replace it with any video or picture. BACKGROUND SUBTRACTION technique is used to achieve this.
