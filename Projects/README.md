@@ -15,4 +15,7 @@ You can contribute your project to the list by filling out [this](https://forms.
  The project uses Dlib and OpenCV to help us identify the essential landmarks of our face such as eyebrows, eyes , jawline etc. Dlib's pre-trained models and helps us with the identification of these features.
 
 4.  **[Background replacement using OpenCV](https://github.com/charansoneji/Background-removal-and-replacer-using-OpenCV)**, *Charan Lalchand Soneji*   
- Background Removal is used very commonly in most video streaming services such as Zoom, Hangouts etc. So we have our background and we have our foreground. This project is gonna help us remove our background and replace it with any video or picture. BACKGROUND SUBTRACTION technique is used to achieve this.
+ Background Removal is used very commonly in most video streaming services such as Zoom, Hangouts etc. So we have our background and we have our foreground. This project is gonna help us remove our background and replace it with any video or picture. BACKGROUND SUBTRACTION technique is used to achieve this.  
+  
+5. **[Face Verification using One-Shot Learning](https://github.com/Octaves0911/Face_verification)**,*Aman Kumar Mallik*
+  Face verification is the task of comparing a candidate face to another and verifying whether it is a match. Technique of One-Shot Learning has been used which learns information about object categories from one, or only a few, training samples/images. The base model is an inception network.
