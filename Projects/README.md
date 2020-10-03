@@ -17,5 +17,11 @@ You can contribute your project to the list by filling out [this](https://forms.
 4.  **[Background replacement using OpenCV](https://github.com/charansoneji/Background-removal-and-replacer-using-OpenCV)**, *Charan Lalchand Soneji*   
  Background Removal is used very commonly in most video streaming services such as Zoom, Hangouts etc. So we have our background and we have our foreground. This project is gonna help us remove our background and replace it with any video or picture. BACKGROUND SUBTRACTION technique is used to achieve this.  
   
-5. **[Face Verification using One-Shot Learning](https://github.com/Octaves0911/Face_verification)**,*Aman Kumar Mallik*  
+5. **[Face Verification using One-Shot Learning](https://github.com/Octaves0911/Face_verification)**, *Aman Kumar Mallik*  
   Face verification is the task of comparing a candidate face to another and verifying whether it is a match. Technique of One-Shot Learning has been used which learns information about object categories from one, or only a few, training samples/images. The base model is an inception network.
+
+6. **[Image Dehazing](https://github.com/sanchitvj/AOD-net-using-TF-v2)**, *Sanchit Vijay*  
+  This project is the implementation of All-In-One-Dehazing Network research paper in tensorflow version 2
+  
+7. **[Breast Cancer Classification using Transfer Learning](https://github.com/subhankar01/Breast-Cancer-Classification)**, *Subhankar Sen*  
+  A Computer Aided Diagnosis(CAD) approach to perform 4-class classification of breast cancer histology images. The proposed model has been evaluated on the ICIAR 2018 Grand Challenge BACH dataset consisting of breast cancer histopathology images and Accuracy on unseen test images is 91%
